@@ -83,5 +83,5 @@ event zeek_done()
 		}
 	}
 	
-	print "Work done!";
+	#print "Work done!";
 }
